@@ -67,7 +67,7 @@ push the training logs and model weights to the repo.
 Next we can run the example script to pretrain the model:
 
 ```bash
-python run_bart_dlm_flax.py \
+python train.py \
     --output_dir="./norwegian-bart-base" \
     --config_name="./norwegian-bart-base" \
     --tokenizer_name="./norwegian-bart-base" \
