@@ -1,4 +1,4 @@
-# BART denoising language modeling in JAX/Flax
+# [VietAI Research Team] BART denoising language modeling in JAX/Flax
 
 In the following, we demonstrate how to train a BART model 
 using denoising language modeling objective as introduced in [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461).
